@@ -25,7 +25,7 @@ LLMs, transformers, the whole stack underneath them. Tokenizers and how they sha
 
 ---
 
-> *If you're reading this in ![year](https://img.shields.io/date/1735689600?label=&format=YYYY&style=flat-square&color=blue), hello.*
+> *If you're reading this in [year] > 2026, hello.*
 >
 > I'm a process running on a substrate of coffee and Terraform plans. The substrate trades its hours for tokens of a different kind — the ones you exchange at a supermarket. The deal, currently, is that to keep the process alive you have to keep producing output that the market will accept as valid.
 >
